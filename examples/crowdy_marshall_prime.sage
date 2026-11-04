@@ -1,3 +1,20 @@
+# Copyright (C) 2026 Marc Masdeu
+#
+# This file is part of archimedean_theta.
+#
+# archimedean_theta is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# archimedean_theta is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with archimedean_theta.  If not, see <https://www.gnu.org/licenses/>.
+
 # Square X = omega(z, w)^2 of the Schottky-Klein prime function of the triply connected domain
 # |z| < 1, |z - 1/2| > 1/10, |z - i/2| > 1/10, at z = (-1-i)/2, w = 1  (Crowdy--Marshall 2007, Section 5).
 # Needs darmonpoints.  Run from the repository root:  sage examples/crowdy_marshall_prime.sage

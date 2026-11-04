@@ -1,3 +1,20 @@
+# Copyright (C) 2026 Marc Masdeu
+#
+# This file is part of archimedean_theta.
+#
+# archimedean_theta is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# archimedean_theta is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with archimedean_theta.  If not, see <https://www.gnu.org/licenses/>.
+
 # Sup-norm error of Omega_1 on the boundary of the fundamental domain (64 points on each of the 4 circles)
 # and at the interior point 0.3+0.1i, for the genus 2 datum of Section 7 (discs of radius 1 at +-2+-2i).
 import sys, time, os

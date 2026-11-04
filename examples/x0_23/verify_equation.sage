@@ -1,3 +1,20 @@
+# Copyright (C) 2026 Marc Masdeu
+#
+# This file is part of archimedean_theta.
+#
+# archimedean_theta is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# archimedean_theta is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with archimedean_theta.  If not, see <https://www.gnu.org/licenses/>.
+
 # Check that y^2 = (x^3-x+1)(x^3-8x^2+3x-7) is a model of X_0(23): compare #C(F_p) with the newforms of level 23.
 from sage.schemes.hyperelliptic_curves.invariants import igusa_clebsch_invariants
 R.<x> = QQ[]

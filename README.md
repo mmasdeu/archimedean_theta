@@ -73,3 +73,9 @@ All scripts are meant to be run **from the repository root**, e.g. `sage benchma
 ## Citing
 
 If you use this code, please cite the article above.
+
+## License
+
+Copyright (C) 2026 Marc Masdeu. The code is free software, distributed under the
+[GNU General Public License, version 3](LICENSE) or (at your option) any later version. It comes with
+no warranty. The text of the license is in the file `LICENSE`.
