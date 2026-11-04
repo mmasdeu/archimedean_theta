@@ -1,0 +1,6 @@
+load('benchmarks/server/common.sage')
+Kr=ComplexBallField(500); z0=Kr(3)/10+Kr(1)/10*Kr(0,1)
+t0=time.time(); S=SchottkyTheta(config(Kr),150); F=S.solve(); v=S.Omega(1,F.column(0),z0)
+re=v.real().mid().exact_rational(); im=v.imag().mid().exact_rational()
+open('benchmarks/server/ref.tmp','w').write('%s\n%s\n'%(re,im)); os.rename('benchmarks/server/ref.tmp','benchmarks/server/ref.txt')
+print('ref written, time',time.time()-t0,'radius',float(v.real().rad()),flush=True)

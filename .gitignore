@@ -1,0 +1,5 @@
+*.sage.py
+__pycache__/
+*.pyc
+benchmarks/server/ref.txt
+benchmarks/server/ref.tmp

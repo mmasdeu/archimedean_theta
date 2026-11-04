@@ -1,0 +1,6 @@
+reference done
+p=10  sup error on the boundary circles 1.7e-07   error at 0.3+0.1i 2.3e-11
+p=20  sup error on the boundary circles 1.4e-13   error at 0.3+0.1i 4.4e-22
+p=40  sup error on the boundary circles 3.3e-25   error at 0.3+0.1i 1.6e-34
+p=60  sup error on the boundary circles 8.3e-37   error at 0.3+0.1i 1.7e-42
+p=80  sup error on the boundary circles 2.1e-48   error at 0.3+0.1i 2.8e-50

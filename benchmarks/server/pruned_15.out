@@ -1,0 +1,3 @@
+pruned d=15 mu=1e-19 terms=101143203 time=6286.4 err=1.0e-14
+pruned d=15 mu=1e-20 terms=241367427 time=14408.0 err=2.5e-15
+pruned d=15 mu=1e-21 terms=582414297 time=32913.5 err=5.7e-16

@@ -1,0 +1,4 @@
+genus 2 datum (Section 7)    p= 60 bits=120  max |ac/bd| = 0.00   max relative difference recurrence vs series = 2.3e-41  (2^-bits = 7.5e-37)
+Fairchild--Rios Ortiz, g=2   p= 60 bits=120  max |ac/bd| = 0.00   max relative difference recurrence vs series = 1.9e-37  (2^-bits = 7.5e-37)
+genus 2 datum (Section 7)    p=120 bits=200  max |ac/bd| = 0.00   max relative difference recurrence vs series = 1.9e-68  (2^-bits = 6.2e-61)
+Fairchild--Rios Ortiz, g=2   p=120 bits=200  max |ac/bd| = 0.00   max relative difference recurrence vs series = 1.9e-62  (2^-bits = 6.2e-61)

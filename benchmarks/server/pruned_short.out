@@ -1,0 +1,17 @@
+pruned d=5 mu=1e-5 terms=567 time=0.0 (summation done)
+pruned d=5 mu=1e-5 terms=567 time=0.0 err=5.3e-06
+pruned d=5 mu=1e-6 terms=1401 time=0.1 (summation done)
+pruned d=5 mu=1e-6 terms=1401 time=0.1 err=1.2e-06
+pruned d=10 mu=1e-12 terms=223869 time=13.9 (summation done)
+pruned d=10 mu=1e-12 terms=223869 time=13.9 err=2.6e-10
+pruned d=10 mu=1e-13 terms=560769 time=35.6 (summation done)
+pruned d=10 mu=1e-13 terms=560769 time=35.6 err=5.6e-11
+pruned d=11 mu=1e-14 terms=1325823 time=83.8 (summation done)
+pruned d=11 mu=1e-14 terms=1325823 time=83.8 err=1.3e-11
+pruned d=11 mu=1e-15 terms=3178725 time=217.7 (summation done)
+pruned d=11 mu=1e-15 terms=3178725 time=217.7 err=3.2e-12
+pruned d=12 mu=1e-15 terms=3178725 time=194.6 (summation done)
+pruned d=12 mu=1e-15 terms=3178725 time=194.6 err=3.2e-12
+pruned d=12 mu=1e-16 terms=7712583 time=439.8 (summation done)
+pruned d=12 mu=1e-16 terms=7712583 time=439.8 err=7.4e-13
+ALLDONE

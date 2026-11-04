@@ -1,0 +1,6 @@
+f = x^6 - 8*x^5 + 2*x^4 + 2*x^3 - 11*x^2 + 10*x - 7   disc = 2^12 * 23^6
+newforms: [q + a0*q^2 + (-2*a0 - 1)*q^3 + (-a0 - 1)*q^4 + 2*a0*q^5 + O(q^6)]
+point counts match the level-23 newforms for 3 <= p < 60: True
+Igusa-Clebsch invariants: (-1144, 669124, -17115576, 606355001344)
+absolute (I2^5/I10, I2^3 I4/I10, I2^2 I6/I10): [-478376871544/148035889, -489164271167/296071778, -43749551703/1184287112]
+real roots of f: [(-1.32471795724475, 1), (7.72903153798093, 1)]  leading coeff 1

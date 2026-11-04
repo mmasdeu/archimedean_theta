@@ -1,0 +1,8 @@
+new d=5 p=5 time=0.005 err=3.7e-06
+new d=10 p=10 time=0.018 err=2.3e-11
+new d=11 p=11 time=0.025 err=1.4e-12
+new d=12 p=12 time=0.029 err=1.7e-14
+new d=15 p=15 time=0.050 err=1.1e-16
+new d=20 p=19 time=0.098 err=7.7e-21
+new d=40 p=39 time=1.273 err=4.7e-41
+new d=80 p=79 time=12.523 err=7.2e-81

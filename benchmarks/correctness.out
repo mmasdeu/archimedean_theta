@@ -1,0 +1,8 @@
+bits=150 p=30  symmetry defect 6.6e-21  base point dependence 5.4e-19
+   B11 = -2.57529955131838968529883431280  B12 = -0.566042371936581272052069475830
+bits=150 p=60  symmetry defect 2.0e-37  base point dependence 2.0e-36
+   B11 = -2.57529955131838968508990935760  B12 = -0.566042371936581272131437130125
+bits=200 p=70  symmetry defect 2.7e-43  base point dependence 3.2e-42
+   B11 = -2.57529955131838968508990935760  B12 = -0.566042371936581272131437130125
+words of length <= 6: 729 terms, |difference| = 3.1e-06
+words of length <= 8: 6561 terms, |difference| = 8.7e-08

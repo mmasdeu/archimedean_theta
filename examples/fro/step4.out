@@ -1,0 +1,30 @@
+i1: agreement p200/p240 = 109.0 digits
+i2: agreement p200/p240 = 109.0 digits
+i3: agreement p200/p240 = 109.0 digits
+i1 / 10^18 = 1.992018855621065659269412667852150315307
+   degree 1: best polynomial height 10^48.8   (generic expectation 10^50.0), residual 9.6e-50
+   degree 2: best polynomial height 10^32.6   (generic expectation 10^33.3), residual 1.1e-66
+   degree 3: best polynomial height 10^24.6   (generic expectation 10^25.0), residual 1.0e-74
+   degree 4: best polynomial height 10^19.6   (generic expectation 10^20.0), residual 4.2e-80
+   degree 5: best polynomial height 10^16.3   (generic expectation 10^16.7), residual 1.3e-82
+   degree 6: best polynomial height 10^13.8   (generic expectation 10^14.3), residual 1.2e-85
+   degree 7: best polynomial height 10^12.4   (generic expectation 10^12.5), residual 1.5e-86
+   degree 8: best polynomial height 10^10.9   (generic expectation 10^11.1), residual 2.3e-88
+i2 / 10^15 = 2.754254608264382895528347398520601095023
+   degree 1: best polynomial height 10^48.7   (generic expectation 10^50.0), residual 4.1e-50
+   degree 2: best polynomial height 10^32.9   (generic expectation 10^33.3), residual 4.6e-66
+   degree 3: best polynomial height 10^24.7   (generic expectation 10^25.0), residual 3.0e-74
+   degree 4: best polynomial height 10^19.7   (generic expectation 10^20.0), residual 9.7e-80
+   degree 5: best polynomial height 10^16.7   (generic expectation 10^16.7), residual 9.9e-83
+   degree 6: best polynomial height 10^14.2   (generic expectation 10^14.3), residual 6.5e-85
+   degree 7: best polynomial height 10^12.6   (generic expectation 10^12.5), residual 1.7e-86
+   degree 8: best polynomial height 10^11.2   (generic expectation 10^11.1), residual 1.4e-87
+i3 / 10^14 = 8.839564326593066521627371513884654312383
+   degree 1: best polynomial height 10^49.3   (generic expectation 10^50.0), residual 1.3e-49
+   degree 2: best polynomial height 10^33.0   (generic expectation 10^33.3), residual 7.3e-66
+   degree 3: best polynomial height 10^25.2   (generic expectation 10^25.0), residual 1.7e-74
+   degree 4: best polynomial height 10^20.2   (generic expectation 10^20.0), residual 1.1e-78
+   degree 5: best polynomial height 10^17.0   (generic expectation 10^16.7), residual 4.9e-81
+   degree 6: best polynomial height 10^14.7   (generic expectation 10^14.3), residual 1.0e-82
+   degree 7: best polynomial height 10^12.7   (generic expectation 10^12.5), residual 1.7e-83
+   degree 8: best polynomial height 10^11.5   (generic expectation 10^11.1), residual 1.1e-83
