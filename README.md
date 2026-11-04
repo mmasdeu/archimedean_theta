@@ -62,7 +62,7 @@ installation and more examples.
 | §7.2 error on the boundary circles | `benchmarks/boundary.sage` | `benchmarks/boundary.out` |
 | Table 2, Figure 1 | `benchmarks/server/{mkref,newalg,pruned}.sage` | `benchmarks/server/*.out` |
 | Table 3, Figure 2 | `benchmarks/server/genus.sage`, `benchmarks/genus_p64.sage` | `benchmarks/server/genus.out`, `benchmarks/genus_p64.out` |
-| Figure 3 | `benchmarks/geometry.sage` | printed |
+| Figure 3 | `benchmarks/geometry.sage` | `benchmarks/geometry.out` |
 | §7.6 prime function | `benchmarks/server/skprime.sage` | `benchmarks/server/skprime.out` |
 | Remark after Theorem 4.4 | `benchmarks/recurrence_check.sage` | `benchmarks/recurrence_check.out` |
 | Example 8.1 | `examples/fro/step*.sage` | `examples/fro/*.out` |

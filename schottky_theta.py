@@ -181,7 +181,7 @@ class SchottkyTheta:
         for i in self.I:
             tt = self.discs[i].radius / (z - self.discs[i].center)
             if float(abs(tt)) > 1 + 1e-9:
-                continue
+                raise ValueError('z lies inside the disc D_%d; move it into the closure of the fundamental domain first' % i)
             ans += sum(F[self.idx[i] * self.q + m - 1] * tt ** m
                        for m in range(1, self.p))
         return ans
@@ -194,7 +194,7 @@ class SchottkyTheta:
             r = self.discs[i].radius
             tt = r / (z - self.discs[i].center)
             if float(abs(tt)) > 1 + 1e-9:
-                continue
+                raise ValueError('z lies inside the disc D_%d; move it into the closure of the fundamental domain first' % i)
             dF = sum(m * F[self.idx[i] * self.q + m - 1] * tt ** (m - 1)
                      for m in range(1, self.p))
             ans += dF * (-tt ** 2 / r)
