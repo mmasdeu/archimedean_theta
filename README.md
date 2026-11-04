@@ -78,4 +78,5 @@ If you use this code, please cite the article above.
 
 Copyright (C) 2026 Marc Masdeu. The code is free software, distributed under the
 [GNU General Public License, version 3](LICENSE) or (at your option) any later version. It comes with
-no warranty. The text of the license is in the file `LICENSE`.
+no warranty. The text of the license is in the file `LICENSE`. `theta_arch.py` contains functions translated from
+MIT-licensed Julia code of Fairchild and Ríos Ortiz; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).

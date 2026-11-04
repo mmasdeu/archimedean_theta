@@ -22,6 +22,7 @@ from darmonpoints.meromorphic import divisor_to_pseries
 from tqdm import tqdm
 # Functions translated from Julia code in "Crossing the Transcendental Divide"
 # Samantha Fairchild, Ángel David Ríos Ortiz
+# That code is MIT-licensed; see THIRD_PARTY_NOTICES.md.
 
 def matrix_from_balls(Bp, Bm):
     r'''
