@@ -1,0 +1,14 @@
+{
+  "title": "archimedean_theta: polynomial-time computation of Poincaré theta series of classical Schottky groups",
+  "upload_type": "software",
+  "description": "Sage code accompanying the article \"A polynomial-time algorithm to compute theta functions of Schottky groups\": Abelian integrals, holomorphic differentials, period matrices and the Schottky-Klein prime function of classical Schottky groups to hundreds of digits, with the scripts behind the examples and benchmarks of the paper.",
+  "creators": [
+    {
+      "name": "Masdeu, Marc",
+      "affiliation": "Universitat Autònoma de Barcelona and Centre de Recerca Matemàtica"
+    }
+  ],
+  "license": "GPL-3.0-or-later",
+  "keywords": ["Schottky groups", "Poincaré theta series", "Riemann surfaces", "period matrices", "Schottky-Klein prime function"],
+  "access_right": "open"
+}

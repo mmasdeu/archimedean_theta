@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "archimedean_theta: polynomial-time computation of Poincaré theta series of classical Schottky groups"
+version: 1.0.0
+date-released: 2026-11-05
+license: GPL-3.0-or-later
+repository-code: "https://github.com/mmasdeu/archimedean_theta"
+authors:
+  - family-names: Masdeu
+    given-names: Marc
+    affiliation: "Universitat Autònoma de Barcelona and Centre de Recerca Matemàtica"
+    email: marc.masdeu@uab.cat
+abstract: >-
+  Sage code accompanying the article "A polynomial-time algorithm to compute theta functions of Schottky groups":
+  Abelian integrals, holomorphic differentials, period matrices and the Schottky-Klein prime function of
+  classical Schottky groups to hundreds of digits, with the scripts behind the examples and benchmarks of the paper.
+keywords:
+  - Schottky groups
+  - Poincaré theta series
+  - Riemann surfaces
+  - period matrices
+  - Schottky-Klein prime function

@@ -73,7 +73,8 @@ All scripts are meant to be run **from the repository root**, e.g. `sage benchma
 
 ## Citing
 
-If you use this code, please cite the article above.
+If you use this code, please cite the article above and the archived release of the software (see
+[CITATION.cff](CITATION.cff); the DOI of each release is on the Zenodo page linked from the repository).
 
 ## License
 
