@@ -40,6 +40,7 @@ repository root**. To use the modules from elsewhere, add the repository to `PYT
 |---------|--------------|------|
 | `sage examples/genus2_basic.sage` | Ω<sub>1</sub>, ω<sub>1</sub>, the period matrix and the Riemann matrix of a genus 2 Schottky group, and a comparison with the truncated series | seconds |
 | `sage examples/crowdy_marshall_prime.sage` | The square of the Schottky–Klein prime function of a triply connected domain, compared with the value of Crowdy–Marshall (needs darmonpoints) | ~15 s |
+| `sage examples/collocation_cm2007.sage` | The same value with the collocation method of Crowdy–Marshall (`collocation.py`) | ~30 s |
 | `sage examples/theta_arch_genus2.sage` | The first implementation against the truncated series (needs darmonpoints) | ~30 s |
 | `sage examples/fro/step2.sage` | Riemann matrix of a genus 3 curve of the Fairchild–Ríos Ortiz family | ~40 s |
 | `sage examples/fro/step3.sage 1/12 1/4 60` | Weierstrass values and Igusa–Clebsch invariants of the genus 2 curve S<sub>π/12,π/4</sub> (use 200 or 240 for the 109 digits of the paper, 12–21 minutes) | ~15 s |

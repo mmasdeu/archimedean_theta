@@ -48,6 +48,7 @@ installation and more examples.
 | `theta_arch.py` | First implementation, iterating on exponentials of power series; used for the Schottky–Klein prime function (`SKprime`). Needs [darmonpoints](https://github.com/mmasdeu/darmonpoints). |
 | `examples/genus2_basic.sage` | Basic usage. |
 | `examples/crowdy_marshall_prime.sage` | The prime function of a triply connected domain (Crowdy–Marshall 2007), to 30 digits. |
+| `examples/collocation_cm2007.sage` | The same value with our multiprecision implementation (`collocation.py`) of the collocation method of Crowdy–Marshall. |
 | `examples/theta_arch_genus2.sage`, `examples/fro_family_theta_arch.sage` | The first implementation on two genus 2 examples. |
 | `examples/fro/` | Example 8.1 of the paper: the family of Fairchild–Ríos Ortiz, a genus 2 curve to 109 digits and an integer relation search on its Igusa invariants; their genus 3 Riemann matrix. |
 | `examples/x0_23/` | Example 8.2: a Schottky uniformization of the modular curve X<sub>0</sub>(23) to 40 digits. |
@@ -63,6 +64,7 @@ installation and more examples.
 | Table 2, Figure 1 | `benchmarks/server/{mkref,newalg,pruned}.sage` | `benchmarks/server/*.out` |
 | Table 3, Figure 2 | `benchmarks/server/genus.sage`, `benchmarks/genus_p64.sage` | `benchmarks/server/genus.out`, `benchmarks/genus_p64.out` |
 | Figure 3 | `benchmarks/geometry.sage` | `benchmarks/geometry.out` |
+| §7.7 comparison with collocation | `benchmarks/server/collocation.sage N` | `benchmarks/server/collocation.out` |
 | §7.4 convergence rate of the ring family (direct solver) | `benchmarks/rates_ring.sage g` | `benchmarks/rates_ring_2.out`, `benchmarks/rates_ring_3.out` |
 | §7.6 prime function | `benchmarks/server/skprime.sage` | `benchmarks/server/skprime.out` |
 | Remark after Theorem 4.4 | `benchmarks/recurrence_check.sage` | `benchmarks/recurrence_check.out` |

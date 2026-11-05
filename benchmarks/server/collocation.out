@@ -1,0 +1,36 @@
+N=2 reference SKprime p=45 time=6.0 X=-0.0298763445595028989464003775608 - 0.0405563953361836543033572378094*I
+N=2 new p=10 time=0.13 err=2.3e-16
+N=2 new p=20 time=0.59 err=2.2e-28
+N=2 new p=30 time=1.84 err=4.2e-40
+N=2 new p=40 time=4.14 err=1.1e-51
+N=2 colloc N1=10 time=0.87 err=2.0e-09
+N=2 colloc N1=20 time=5.53 err=1.6e-15
+N=2 colloc N1=30 time=18.61 err=1.7e-21
+N=2 colloc N1=40 time=44.87 err=2.1e-27
+N=3 reference SKprime p=45 time=16.2 X=-0.0298869133190417461375661264320 - 0.0404854581538208777404165088274*I
+N=3 new p=10 time=0.32 err=2.4e-16
+N=3 new p=20 time=1.70 err=2.1e-28
+N=3 new p=30 time=5.01 err=3.5e-40
+N=3 new p=40 time=11.47 err=9.1e-52
+N=3 colloc N1=10 time=2.94 err=1.5e-09
+N=3 colloc N1=20 time=21.96 err=1.4e-15
+N=3 colloc N1=30 time=71.75 err=1.1e-21
+N=3 colloc N1=40 time=167.64 err=1.7e-27
+N=4 reference SKprime p=45 time=26.7 X=-0.0299575635863071971212613134600 - 0.0403074796889883869077294825331*I
+N=4 new p=10 time=0.52 err=1.9e-16
+N=4 new p=20 time=2.68 err=1.7e-28
+N=4 new p=30 time=8.33 err=2.0e-40
+N=4 new p=40 time=18.78 err=4.6e-52
+N=4 colloc N1=10 time=6.06 err=1.3e-09
+N=4 colloc N1=20 time=46.00 err=9.6e-16
+N=4 colloc N1=30 time=149.24 err=1.3e-21
+N=4 colloc N1=40 time=364.43 err=1.4e-27
+N=6 reference SKprime p=45 time=67.2 X=-0.0300450518125632074100766292681 - 0.0400693543770979168036698459744*I
+N=6 new p=10 time=1.27 err=1.4e-15
+N=6 new p=20 time=6.80 err=2.8e-27
+N=6 new p=30 time=20.92 err=4.9e-37
+N=6 new p=40 time=47.47 err=3.2e-46
+N=6 colloc N1=10 time=23.73 err=1.4e-09
+N=6 colloc N1=20 time=170.76 err=5.5e-16
+N=6 colloc N1=30 time=535.15 err=1.3e-21
+N=6 colloc N1=40 time=1267.39 err=1.8e-27
