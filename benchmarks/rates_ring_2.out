@@ -1,0 +1,11 @@
+g=2 p=10 done (0 s)
+g=2 p=20 done (0 s)
+g=2 p=30 done (1 s)
+g=2 p=40 done (3 s)
+g=2 p=60 done (11 s)
+g=2 p=90 done (72 s)
+g=2  p=10  max |B(p) - B(90)| = 6.6e-08
+g=2  p=20  max |B(p) - B(90)| = 3.2e-14
+g=2  p=30  max |B(p) - B(90)| = 1.0e-19
+g=2  p=40  max |B(p) - B(90)| = 2.8e-25
+g=2  p=60  max |B(p) - B(90)| = 7.6e-37

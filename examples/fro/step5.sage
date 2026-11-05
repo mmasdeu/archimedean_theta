@@ -39,7 +39,7 @@ def tests(w):
     return out
 names = ['i1', 'i2', 'i3']
 res = {nm: tests(R(v)) for nm, v in zip(names, [I2**5/I10, I2**3*I4/I10, I2**2*I6/I10])}
-ctrl = [tests(R.random_element(1, 10)) for _ in range(8)]
+ctrl = [tests(R.random_element(1, 10)) for _ in range(40)]
 keys = list(res['i1'].keys())
 print('test   ' + '  '.join('%6s' % n for n in names) + '   controls: min / median / max  (log10 of height)')
 for k in keys:
