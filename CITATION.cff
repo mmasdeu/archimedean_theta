@@ -10,6 +10,7 @@ authors:
     given-names: Marc
     affiliation: "Universitat Autònoma de Barcelona and Centre de Recerca Matemàtica"
     email: marc.masdeu@uab.cat
+    orcid: "https://orcid.org/0000-0002-8763-5599"
 abstract: >-
   Sage code accompanying the article "A polynomial-time algorithm to compute theta functions of Schottky groups":
   Abelian integrals, holomorphic differentials, period matrices and the Schottky-Klein prime function of
